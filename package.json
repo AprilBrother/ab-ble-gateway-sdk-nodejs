@@ -1,6 +1,6 @@
 {
   "name": "ab-ble-gateway-sdk-nodejs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ab ble gateway mqtt http websocket",
   "main": "ab-ble-gateway-sdk.js",
   "scripts": {
