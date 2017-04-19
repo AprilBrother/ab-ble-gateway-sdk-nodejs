@@ -1,8 +1,8 @@
 {
   "name": "ab-ble-gateway-sdk-nodejs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ab ble gateway mqtt http websocket",
-  "main": "index.js",
+  "main": "ab-ble-gateway-sdk.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
