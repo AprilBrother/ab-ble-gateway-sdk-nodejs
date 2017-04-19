@@ -1,5 +1,5 @@
 
-###install
+### install
 
 - npm
 ```
@@ -13,5 +13,5 @@ yarn add ab-ble-gateway-sdk-nodejs
 #### Example
 ```
 gateway=require('ab-ble-gateway-sdk-nodejs');
-gateway.decode('111111111111111');
+gateway.server({debug:true});
 ```
