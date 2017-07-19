@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lemonadezZ/ab-ble-gateway-sdk-nodejs.git"
+    "url": "git+https://github.com/AprilBrother/ab-ble-gateway-sdk-nodejs.git"
   },
   "keywords": [
     "ab",
@@ -21,9 +21,9 @@
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/lemonadezZ/ab-ble-gateway-sdk-nodejs/issues"
+    "url": "https://github.com/AprilBrother/ab-ble-gateway-sdk-nodejs/issues"
   },
-  "homepage": "https://github.com/lemonadezZ/ab-ble-gateway-sdk-nodejs#readme",
+  "homepage": "https://github.com/AprilBrother/ab-ble-gateway-sdk-nodejs#readme",
   "dependencies": {
     "formidable": "^1.1.1"
   }
